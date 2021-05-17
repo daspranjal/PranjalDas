@@ -1,70 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://use.fontawesome.com/d1341f9b7a.js"></script>
+    <link rel="stylesheet" href="stle.css">
     <title>Pranjal Das</title>
-    <style>
-        body{
-            margin: 0;
-            padding: 0;
-            background: grey;
-        }
-        .box{
-            width: 600px;
-            border-radius: 8px;
-            background: rgba(0, 0, 0, 0.4);
-            padding: 40px;
-            text-align: center;
-            margin: auto;
-            margin-top: 5%;
-            color: white;
-            font-family: 'Century Gothic', sans-serif;
-        }
-        .box-img{
-            border-radius: 50%;
-            height:250px;
-            width: 250px;
-        }
-        .box h1{
-            margin: 15px 0;
-            font-size:40px;
-            letter-spacing: 4px;
-            font-weight: 100;
-        }
-        .box h5 p{
-            margin: 4px 0;
-            padding: 0;
-            font-size: 20px;
-            letter-spacing: 2px;
-            font-weight: 200;
-        }
-        #about{
-            text-align:center;
-            letter-spacing: 1px;
-            word-spacing: 2px;
-        }
-        ul{
-            margin: 0 8px;
-            padding: 0;
-        }
-        .box li{
-            display: inline-block;
-            margin: 6px;
-            list-style: none;
-        }
-        .box li a{
-            color: white;
-            text-decoration: none;
-            font-size: 40px;
-            transition: all ease-in-out 250ms;
-        }
-        .box li a:hover{
-            color: teal;
-        }
-    </style>
 </head>
 
 <body>
